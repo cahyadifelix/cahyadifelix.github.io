@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://master-radmep.org'>EMJM RADMEP student</a>. Enschede, the Netherlands. cahyadi.felix@gmail.com.
+subtitle: <a href='https://master-radmep.org'>EMJM RADMEP</a> master's student. Enschede, the Netherlands.
+Email: cahyadi.felix@gmail.com.
 
 profile:
   align: right
