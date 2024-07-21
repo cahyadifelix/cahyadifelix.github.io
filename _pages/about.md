@@ -3,13 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://master-radmep.org'>EMJM RADMEP</a> master's student. Enschede, the Netherlands.
-Email: cahyadi.felix@gmail.com.
 
 profile:
   align: right
   image: prof_pic_felix.jpg
   image_circular: false # crops the image to make it circular
-  more_info: #>
+  more_info: >
+    <p>Contact: cahyadi.felix@gmail.com</p>
     #<p>555 your office number</p>
     #<p>123 your address street</p>
     #<p>Your City, State 12345</p>
