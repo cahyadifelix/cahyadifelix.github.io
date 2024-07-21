@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am Felix and am a master's student in the [RADMEP](https://master-radmep.org) programme. I am a physicist in the midst of transitioning into a photonics engineer. My research interests are: photonic integrated circuit (PIC) and PIC integration with CMOS technology. Currently doing a summer internship in David Marpaung's [Nonlinear Nanophotonics (NLNP)](https://davidmarpaung.com/) research group at the University of Twente.
+Hi, I am Felix and am a master's student in the [RADMEP](https://master-radmep.org) programme. I am a physicist in the midst of transitioning into a photonics engineer. My research interests are photonic integrated circuit (PIC) and its integration with CMOS technology. Currently doing a summer internship in David Marpaung's [Nonlinear Nanophotonics (NLNP)](https://davidmarpaung.com/) research group at the University of Twente.
 
 I acquired my bachelor's degree of physics from [Institut Teknologi Bandung](https://fi.itb.ac.id/).
 
