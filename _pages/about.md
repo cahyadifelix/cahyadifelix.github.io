@@ -6,7 +6,7 @@ subtitle: <a href='https://master-radmep.org'>EMJM RADMEP</a> master's student.
 
 profile:
   align: right
-  image: prof_pic_felix.jpg
+  image: Felix2024.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact: cahyadi.felix@gmail.com</p>
